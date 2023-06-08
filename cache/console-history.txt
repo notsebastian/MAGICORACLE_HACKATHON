@@ -1,0 +1,15 @@
+await nftContract.setMagicOracle("0x4b4F7104e89cf3914199C9127b3e513ef4b1813F")
+await nftContract.name()
+await nftContract.name
+const nftContract = await NFTContract.attach("0x3A43f0105dFf90A47585dA206Eaa5a2202eD4728")
+const NFTContract = await NFTContract.attach("0x4b4F7104e89cf3914199C9127b3e513ef4b1813F")
+const NFTContract = await ethers.getContractFactory("MagicOracleNFT")
+test.name
+const test = await testFactory
+await testFactory.name
+await testFactory.name()
+const testFactory = await ethers.getContractFactory("MagicOracleNFT")
+console.log(MagicOracleNFT)
+hre
+hrre
+signer

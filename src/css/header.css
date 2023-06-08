@@ -1,0 +1,56 @@
+.banner {
+  padding-left: 0%;
+  display: flex;
+  justify-content: center;
+  opacity: 1;
+
+  position: relative;
+}
+
+.nav-bar {
+  display: flex;
+  padding-top: 10px;
+  opacity: 1;
+  justify-content: flex-end;
+}
+
+.connect-button {
+  background-color: #a0b3f2 !important;
+  border: 5px solid #8399e2 !important;
+  border-right-color: #375bd2 !important;
+  border-bottom-color: #375bd2 !important;
+}
+
+.menu-button {
+  font-weight: bold !important;
+  position: relative !important;
+  background-color: #f5f7fd !important;
+  border: 5px solid #dfe7fb !important;
+  border-right-color: #a0b3f2 !important;
+  border-bottom-color: #a0b3f2 !important;
+}
+
+.menu-button:hover a {
+  color: white !important;
+}
+
+.menu-button:hover p {
+  color: white !important;
+}
+
+.menu-button:hover {
+  background-color: #a0b3f2 !important;
+  border: 5px solid #8399e2 !important;
+  border-right-color: #375bd2 !important;
+  border-bottom-color: #375bd2 !important;
+}
+
+.span-button {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+
+  z-index: 1;
+}

@@ -1,0 +1,14 @@
+@font-face {
+  font-family: chainlinkFont;
+  src: url(../../Chainlink.ttf);
+}
+
+.chainlinkFont {
+  font-family: chainlinkFont !important;
+  font-weight: bold !important;
+}
+
+#chainlinkFont {
+  font-family: chainlinkFont !important;
+  font-weight: bold !important;
+}
